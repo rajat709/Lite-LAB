@@ -4,12 +4,12 @@ Try Quantum LAB: https://lab.quantumopenai.com/
 
 
 
-## Requirements
+### Requirements
 
 JupyterLite is being tested against modern web browsers:
 
 - Firefox 90+
 - Chromium 89+
 
-# QuantumOpenAI
+## QuantumOpenAI
 http://quantumopenai.com/

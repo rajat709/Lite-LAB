@@ -1,6 +1,6 @@
-# QuantumAI LAb
+# Jupyter Lab
 
-Try Quantum LAB: https://lab.quantumopenai.com/
+Try LAB: https://rajat709.github.io/QuantumAI-LAB/
 
 
 
@@ -13,5 +13,5 @@ JupyterLite is being tested against modern web browsers:
 
 ![alt text](https://github.com/rajat709/QuantumAI-LAB/blob/main/QuantumAI-1.png/)
 
-## QuantumOpenAI
+## BY- QuantumOpenAI
 http://quantumopenai.com/

@@ -19,7 +19,6 @@ jupyterlite-xeus-wren==0.2.1
 jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
-qiskit
 numpy>=1.17
 Sphinx~=4.0
 qiskit-sphinx-theme>=1.10.0
